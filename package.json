@@ -1,0 +1,20 @@
+{
+  "name": "TinDog-Start",
+  "version": "1.0.0",
+  "description": "TinDog Starting Files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/londonappbrewery/TinDog-Start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/londonappbrewery/TinDog-Start/issues"
+  },
+  "homepage": "https://github.com/londonappbrewery/TinDog-Start#readme"
+}
